@@ -3,6 +3,8 @@ elFinder
  - 加入了簡單的帳號與權限功能。
  - 在Toolbar顯示登入ID與登出按鈕。
 
+![DEMO](https://raw.githubusercontent.com/tw1720/elFinder/main/files/%E2%98%85%E5%85%AC%E9%96%8B%E6%96%87%E4%BB%B6%E5%A4%BE(%E5%83%85%E4%BE%9B%E8%AE%80%E5%8F%96)/demo.jpg)
+
 ----
 
 設定
