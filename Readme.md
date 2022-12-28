@@ -11,9 +11,9 @@ elFinder
 在 ./php/connector.minimal.php 設定帳號所屬權限
 
 這個DEMO使用的帳號 / 密碼：
-admin / admin
-user1 / user1
-guest / guest
+ - admin / admin
+ - user1 / user1
+ - guest / guest
 
 `詳細的權限設定資訊請參閱官方說明`
 
