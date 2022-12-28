@@ -7,8 +7,8 @@ elFinder
 
 設定
 -------
-在 ./api.php 設定各用戶帳號密碼
-在 ./php/connector.minimal.php 設定帳號所屬權限
+ - 在 ./api.php 設定各用戶帳號密碼
+ - 在 ./php/connector.minimal.php 設定帳號所屬權限
 
 這個DEMO使用的帳號 / 密碼：
  - admin / admin
